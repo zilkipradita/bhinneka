@@ -26,4 +26,9 @@ php spark db:seed DataSeeder
 ```
 php spark serve
 ```
+6. Login
+```
+username : admin
+password : 12345678
+```
 The app is up and running, and here is a preview
